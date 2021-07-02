@@ -33,17 +33,17 @@
 ## Manual instalation
 
 * Home   
-  <http://download.accountz.co.uk/home/home_210701.zip>
+  <https://accountz-open.github.io/download/home/home_210701.zip>
     
 * Business   
-  <http://download.accountz.co.uk/business/baz_210701.zip>
+  <https://accountz-open.github.io/download/business/baz_210701.zip>
   
   
 ## Manual upgrade
 
 * Home   
-  <http://download.accountz.co.uk/home/upgrade_home_210701.zip>
+  <https://accountz-open.github.io/download/home/upgrade_home_210701.zip>
     
 * Business   
-  <http://download.accountz.co.uk/business/upgrade_baz_210701.zip>
+  <https://accountz-open.github.io/download/business/upgrade_baz_210701.zip>
 
